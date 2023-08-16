@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
-- 🔭 I’m currently working on https://marbslifestyle.com/ & https://datafanatics.nl & https://myhappyclinic.com
+- 🔭 I’m currently working on [marbslifestyle](https://marbslifestyle.com/) & [datafanatics](https://datafanatics.nl) & [myhappyclinic](https://myhappyclinic.com)
 
 - 🌱 I’m currently learning *Full Stack Web Development with MERN*
 
 - 🤝 I’m looking for help with *WordPress*
 
-- 👨‍💻 All of my projects are available at this https://github.com/SubornaAuru/websites
+- 👨‍💻 All of my projects are available at this [projects here](https://github.com/SubornaAuru/websites)
 
 - 💬 Ask me about *HTML, CSS, JS, jQuery, Ajax, API, PHP*
 
