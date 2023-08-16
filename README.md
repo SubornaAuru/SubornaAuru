@@ -9,28 +9,28 @@
 
 - 🔭 I’m currently working on https://brokertarieven.nl & https://brokerdata.tech & https://compareallbrokers.com
 
-- 🌱 I’m currently learning *Node JS & React Js*
+- 🌱 I’m currently learning *Full Stack Web Development with MERN*
 
-- 🤝 I’m looking for help with *JavaScript*
+- 🤝 I’m looking for help with *WordPress*
 
-- 👨‍💻 All of my projects are available at this https://github.com/ashiqulshourav/websites
+- 👨‍💻 All of my projects are available at this https://github.com/SubornaAuru/websites
 
-- 💬 Ask me about *HTML, CSS, sass, Bootstrap, vanilla JS, jQuery, Ajax, API*
+- 💬 Ask me about *HTML, CSS, JS, jQuery, Ajax, API, PHP*
 
-- 📫 How to reach me *ashiqulshouravdev@gmail.com*
+- 📫 How to reach me *suborna.tm@gmail.com*
 
-- 📄 Know about my experiences in this https://drive.google.com/file/d/1jA0FcykN3LCuxA6iO82RImkxEaRhOXyN/view?usp=share_link
+- 📄 Know about my experiences in this https://mybdjobs.bdjobs.com/mybdjobs/masterview.asp
 
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://fb.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://codepen.io/shouravnkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shouravnkt" height="30" width="40" /></a>
-<a href="https://instagram.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://twitter.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiqulshourav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAvKKTiGb2tYOuXweFYJ60Q?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nimpat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashiqulshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shouravnkt" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiqulshourav" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nimpat" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiqulshourav" height="30" width="40" /></a>
 </p>
 
 <br/>
