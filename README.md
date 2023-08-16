@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *suborna.tm@gmail.com*
 
-- 📄 Know about my experiences in this https://mybdjobs.bdjobs.com/mybdjobs/masterview.asp
+- 📄 Know about my experiences in this [https://suborna.me](http://www.suborna.me/)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
