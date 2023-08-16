@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *suborna.tm@gmail.com*
 
-- 📄 Know about my experiences in this [https://suborna.me]
+- 📄 Know about my experiences in this [suborna.me](https://suborna.me)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
